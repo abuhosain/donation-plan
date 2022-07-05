@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+     font-family: 'Oswald', sans-serif;
+}
+
+header {
+    background-image:  linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    
+   
+}
+
+.donate-hdr {
+    text-align: center;
+    
+   
+    padding-top: 300px;
+    
+
+}
+
+.donate-hdr h1{
+    color: white;
+    font-size: 50px;
+}
+
+.donate-hdr p{
+    margin-top: 30px;
+   margin-bottom: 50px;
+    font-size: 25px;
+    color: white;
+   
+}
+
+.btn{
+    text-decoration: none;
+   
+    color: white;
+    font-size: 25px;
+    background-color: tomato;
+    padding: 10px 10px;
+    border-radius: 15px;
+    font-weight: 400 !important;
+
+   
+ }
