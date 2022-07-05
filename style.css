@@ -8,6 +8,8 @@ body {
      font-family: 'Oswald', sans-serif;
 }
 
+/* header section  */
+
 header {
     background-image:  linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(images/donation4.jpg);
     background-repeat: no-repeat;
@@ -52,3 +54,45 @@ header {
 
    
  }
+
+
+
+ .donate{
+    margin-top: 80px;
+    text-align: center;
+ }
+
+ .donate-today h1{
+    font-size: 50px;
+ }
+
+ .donate-today p{
+    font-size: 25px;
+    margin-top: 15px;
+    font-weight:200 !important; 
+    color: rgb(95, 76, 76);
+ }
+
+ .donate-money{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+ }
+
+ .donate-money p{
+    font-size: 30px;
+    padding: 60px;
+    margin: 30px;
+    background-color: rgb(233, 233, 233);
+    
+ }
+.donate-money-ptag{
+  
+    border: 3px solid tomato;
+    color: rgb(226, 45, 14);
+    background-color: rgb(241 203 197) !important;
+}
+ 
+
+  
