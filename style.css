@@ -13,6 +13,7 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+    
     width: 100%;
 
 
@@ -20,9 +21,10 @@ header {
 
 .donate-hdr {
     text-align: center;
+    padding-top: 30vh;
 
 
-    padding-top: 170px;
+    
 
 
 }
