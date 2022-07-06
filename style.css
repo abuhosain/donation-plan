@@ -100,10 +100,10 @@ form {
 }
 
 .donate-form-amount {
-    width: 900px;
+    width: 500px;
     height: 40px;
     margin-top: 30px;
-    padding-left: 650px;
+    padding-left: 280px;
     padding-bottom: 20px;
     border: none;
     border-bottom: 1px solid black;
@@ -216,3 +216,48 @@ form {
     margin-bottom: 25px;
     font-size: 20px;
 }
+.their-live-item-box img{
+    width: 100%;
+}
+
+
+
+/* About us */
+
+
+.about-us{
+    margin-top: 90px;
+    text-align: center;
+    background-color: azure;
+}
+
+
+.about-us h1{
+      font-size: 70px;
+}
+
+
+.about{
+    display: flex;
+    margin-top: 90px;
+    
+}
+
+.about-item{
+    width: 50%;
+}
+
+.about-item h2{
+    margin-top: 60px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    ;
+}
+
+.about-item p{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+
+
